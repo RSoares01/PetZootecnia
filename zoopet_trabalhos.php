@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<link rel="shortcut icon" href="libs/img/logo.png" />
+<style>
+
+
+
+
+@media (max-width: 767px) {
+    .hidden-xs {
+        display: none!important
+    }
+}
+@media (min-width: 768px)and (max-width: 991px) {
+    .hidden-sm {
+        display: none!important
+    }
+}
+@media (min-width: 992px)and (max-width: 1199px) {
+    .hidden-md {
+        display: none!important
+    }
+}
+@media (min-width: 1200px) {
+    .hidden-lg {
+        display: none!important
+    }
+}
+
+
+    </style>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+<link rel="stylesheet" href="libs/css/style.css?a">
+
+<link rel="stylesheet" type="text/css"  href="libs/css/estilo.css?12" />
+<title>ZOOPET 2019 - PET - ZOOTECNIA</title>
+
+<meta name="description" content="Para acessar nosso planejamento anual, click sobre o ano desejado: Planejamento 2016"/>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500|Gaegu:700" rel="stylesheet">
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <div class="container">
+      <a class="hidden-xs hidden-sm navbar-brand" href="index.html"> <img style="width: 40%; height: 40%;" src="libs/img/logo.png"/> </a>
+
+      <a class="hidden-md hidden-lg navbar-brand" href="index.html"> <img style="width: 80px; height: 80px;" src="libs/img/logo.png"/> </a>
+
+
+
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="oi oi-menu"></span> Menu
+      </button>
+
+      <div onclick="void(0)" class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav ml-auto menu">
+          <li class="nav-item "><a href="index.html" class="nav-link">Início</a></li>       
+          <li class="nav-item"><a  class="nav-link">O BALIDO  <i class="fas fa-caret-down"></i></a>
+                <ul>
+                      <li><a href="apresentacao.html">Apresentação</a></li>
+                      <li><a href="expediente.html">Expediente</a></li>
+                      <li><a href="https://issuu.com/petzoousp/docs/o_balido_-_2021">Edição Atual</a></li>    
+                      <li><a href="volumes-anteriores.html">Edições Anteriores</a></li>   
+                      <li><a href="normas.html">Normas para Publicação</a></li>      
+                      <li><a href="contato_revista.html">Contato</a></li>                 
+                </ul>
+            </li>
+          
+          <li class="nav-item"><a href="materias.html" class="nav-link">Matérias</a></li>
+          
+           <li class="nav-item"><a  class="nav-link">PETianos  <i class="fas fa-caret-down"></i></a>
+                <ul>
+                      <li><a href="ativos.html">Ativos</a></li>
+                      <li><a href="egressos.html">Egressos</a></li>
+                      <li><a href="tutor.html">Tutor</a></li>                    
+                </ul>
+            </li>
+             <li class="nav-item"><a class="nav-link">Atividades <i class="fas fa-caret-down"></i></a> 
+                <ul>
+                      
+                      <li><a href="processo-2019.html">Processo Seletivo 2022</a></li>
+<li><a href="atividades.html">Atividades</a></li>
+                    
+                </ul>
+            </li>
+
+
+      
+
+                   <li class="nav-item"><a class="nav-link">ZOOPET 2019 <i class="fas fa-caret-down"></i></a> 
+                <ul>
+                      
+                      <li><a href="zoopet.html">Inscrições</a></li>
+<li><a href="zoopet_trabalhos.html">Trabalhos</a></li>
+                    
+                </ul>
+            </li>
+
+
+
+
+
+
+
+
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- END nav -->
+  
+  <div class="block-31" style="position: relative;">
+    <div class="owl-carousel loop-block-31 ">
+      <div class="block-30 block-30-sm item" style="background-image: url('libs/img/back2.jpg');" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-md-7 text-center">
+              <h2 class="heading">TRABALHOS ZOOPET 2019</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+  <div class="site-section mb-5">
+    <div class="container"><h2>TRABALHOS ZOOPET 2019</h2>
+
+      <div class="row mb-5">
+  
+        <div class="col-md-6"><br>
+          <p>Edital, modelos de resumo e banner.</p><p>
+<b>Obs.: Enviar resumo em dois modelos, em pdf e doc.</b></p> 
+
+<br><br>
+<P><a href="trabalhos/Edital_ZOOPET2019.docx">EDITAL EM PDF</a></P>
+ <P><a href="trabalhos/Modelo_Pôster_ZOOPET2019.pptx">MODELO DO RESUMO EM DOC</a></P>
+ <P><a href="trabalhos/Modelo_Resumo_ZOOPET2019.docx">MODELO DO BANNER EM PPTX</a></P>          
+
+
+          </div>
+<?php
+/**
+* Autor: Rômulo Brasil – romulobrasil.com
+* Email com vários anexos em PHP Mail()
+*/
+if ($_SERVER[‘REQUEST_METHOD’]=="POST"){
+//E-mail que receberar os e-mails com anexos.
+$to="zoopet2019@petzoofzea.com.br";
+
+//Assunto do E-mail Enviado
+$subject="Teste de anexo";
+
+//Mensagem que irar no corpo do e-mail
+$message="Texto enviado com o anexo";
+
+//Pega o Remetente
+$from="zoopet2019@petzoofzea.com.br";
+
+//Cabeçalho do E-mail
+$mime_boundary="==Multipart_Boundary_x".md5(mt_rand())."x";
+$headers = "From: $from\r\n" .
+"MIME-Version: 1.0\r\n" .
+"Content-Type: multipart/mixed;\r\n" .
+" boundary=\"{$mime_boundary}\"";
+
+//Complemento da mensagem MIME que detecta o formato dos arquivos.
+$message = "This is a multi-part message in MIME format.\n\n" .
+"–{$mime_boundary}\n" .
+"Content-Type: text/plain; charset=\"iso-8859-1\"\n" .
+"Content-Transfer-Encoding: 7bit\n\n" .
+$message . "\n\n";
+
+//Laço que detecta todos os input[file]
+foreach($_FILES as $userfile){
+$tmp_name = $userfile[‘tmp_name’];
+$type = $userfile[‘type’];
+$name = $userfile[‘name’];
+$size = $userfile[‘size’];
+
+//Abre e lê o arquivo e add na variável $data
+if (file_exists($tmp_name)){
+if(is_uploaded_file($tmp_name)){
+$file = fopen($tmp_name,’rb’);
+$data = fread($file,filesize($tmp_name));
+fclose($file);
+$data = chunk_split(base64_encode($data));
+}
+
+//Add o arquivo a variável $message
+$message .= "–{$mime_boundary}\n" .
+"Content-Type: {$type};\n" .
+" name=\"{$name}\"\n" .
+"Content-Disposition: attachment;\n" .
+" filename=\"{$fileatt_name}\"\n" .
+"Content-Transfer-Encoding: base64\n\n" .
+$data . "\n\n";
+}
+} //endforeach
+
+$message.="–{$mime_boundary}–\n";
+mail($to, $subject, $message, $headers);
+}
+?>
+
+            <div class="col-md-6"><br>
+
+
+<form action="<?php echo $_SERVER[‘PHP_SELF’]; ?>" method="POST" enctype="multipart/form-data">
+De: <input type="text" name="fromname" value="zoopet2019@petzoofzea.com.br"> <br>
+Para: <input type="text" name="fromemail" value="zoopet2019@petzoofzea.com.br"> <br>
+anexos: <br>
+<input type="file" name="file1" value=""> <br>
+<input type="file" name="file2" value=""> <br>
+<input type="file" name="file3" value=""> <br>
+<input type="submit" value="Enviar">
+</form>
+
+
+
+
+
+
+            </div>
+        
+      </div><br>
+      <hr>
+
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<!-- .site-section -->
+  
+  <footer class="footer">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-md-6 col-lg-4">
+    
+          <p class="mb-5">Avenida Duque de Caxias Norte, 225 - Campus da USP Pirassununga</p>
+          
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <h3 class="heading-section">petzootecnia@usp.br</h3>
+       
+
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="block-23">
+
+              <ul>
+ 
+                <li><a href="#"><span class="icon icon-phone"></span><span class="text">19 35654150</span></a></li>
+
+              </ul>
+            </div>
+        </div>
+        
+        
+      </div>
+      <div class="row pt-5">
+        <div class="col-md-12 text-center">
+          <p>
+            <!-- Link back to  can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Desenvolvido por <a href="https://renanhirai.com.br" target="_blank" class="text-primary">Renan Hirai</a>
+            <!-- Link back to  can't be removed. Template is licensed under CC BY 3.0. -->
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/bootstrap-datepicker.js"></script>
+  
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
